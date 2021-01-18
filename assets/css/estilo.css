@@ -1,0 +1,10 @@
+.img-fluid {
+  display: block;
+  margin: auto;
+}
+
+.modal {
+  width: 50%;
+  margin-left: 30%;
+}
+
